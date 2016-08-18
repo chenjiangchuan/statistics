@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>JCRedViewController</key>
+	<dict>
+		<key>ClickEvent</key>
+		<dict>
+			<key>privBtnClick</key>
+			<string>CLICK_RED_PRIV</string>
+			<key>numBtnClick</key>
+			<string>CLICK_RED_NUM</string>
+		</dict>
+		<key>ViewEvent</key>
+		<dict>
+			<key>Enter</key>
+			<string>VIEW_RED_ENTER</string>
+			<key>Leave</key>
+			<string>VIEW_RED_LEAVE</string>
+		</dict>
+	</dict>
+	<key>JCMainViewController</key>
+	<dict>
+		<key>ClickEvent</key>
+		<dict>
+			<key>btnClick</key>
+			<string>CLICK_MAIN_NEXT</string>
+		</dict>
+		<key>ViewEvent</key>
+		<dict>
+			<key>Enter</key>
+			<string>VIEW_MAIN_ENTER</string>
+			<key>Leave</key>
+			<string>VIEW_MAIN_LEAVE</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
